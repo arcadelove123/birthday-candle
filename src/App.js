@@ -37,7 +37,7 @@ function App() {
     <div className="App">
       <h1>Happy BirthDay!</h1>
       <Candle numcandle={num}/>
-      <div className="button_container1">
+      <div className="button_container">
         <button className="button" onClick={() => setnumcandle(num + 1)}>Add Candle</button>
         <button 
           className="button" 
