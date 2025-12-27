@@ -12,15 +12,10 @@ Interactive React app that displays birthday candles with flickering flame anima
 - Responsive candle row layout  
 - Built with React
 
-## Demo
-
-![Demo GIF](./images/demo.gif)  
-*Demo of candles being added and removed with flickering flames.*
-
 ## Installation
 
 1. Clone the repository:  
-  git clone https://github.com/your-username/birthday-candle-app.git
+  git clone https://arcadelove123.github.io/birthday-candle/
   Install dependencies:
 
 2. Install dependencies:
