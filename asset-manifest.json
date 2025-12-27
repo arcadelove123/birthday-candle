@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/birthday-candle/static/css/main.73e405a0.css",
+    "main.js": "/birthday-candle/static/js/main.0b8ff0b1.js",
+    "static/js/453.d6ecb881.chunk.js": "/birthday-candle/static/js/453.d6ecb881.chunk.js",
+    "static/media/candle_flame.png": "/birthday-candle/static/media/candle_flame.6d96771957b552544705.png",
+    "static/media/birthday-candles-zoy (2)_13.png": "/birthday-candle/static/media/birthday-candles-zoy (2)_13.c91f64800897c9936c81.png",
+    "static/media/birthday-candles-zoy (2)_03.png": "/birthday-candle/static/media/birthday-candles-zoy (2)_03.fc9e9f0737682e3d091a.png",
+    "static/media/birthday-candles-zoy (2)_05.png": "/birthday-candle/static/media/birthday-candles-zoy (2)_05.5e671204933be535daf6.png",
+    "static/media/birthday-candles-zoy (2)_17.png": "/birthday-candle/static/media/birthday-candles-zoy (2)_17.4fcaa4da501f47d94189.png",
+    "static/media/birthday-candles-zoy (2)_07.png": "/birthday-candle/static/media/birthday-candles-zoy (2)_07.7b1722f0df5bb0e45dea.png",
+    "static/media/birthday-candles-zoy (2)_09.png": "/birthday-candle/static/media/birthday-candles-zoy (2)_09.ad2f73a119ea0f432ab8.png",
+    "static/media/birthday-candles-zoy (2)_11.png": "/birthday-candle/static/media/birthday-candles-zoy (2)_11.0e6961779400fbc46f32.png",
+    "static/media/birthday-candles-zoy (2)_15.png": "/birthday-candle/static/media/birthday-candles-zoy (2)_15.3842b11575d901b134a6.png",
+    "static/media/birthday-candles-zoy (2)_19.png": "/birthday-candle/static/media/birthday-candles-zoy (2)_19.9c9a3f3554a1601a1959.png",
+    "index.html": "/birthday-candle/index.html",
+    "main.73e405a0.css.map": "/birthday-candle/static/css/main.73e405a0.css.map",
+    "main.0b8ff0b1.js.map": "/birthday-candle/static/js/main.0b8ff0b1.js.map",
+    "453.d6ecb881.chunk.js.map": "/birthday-candle/static/js/453.d6ecb881.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.73e405a0.css",
+    "static/js/main.0b8ff0b1.js"
+  ]
+}
