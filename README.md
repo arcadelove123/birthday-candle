@@ -2,7 +2,7 @@
 
 Interactive React app that displays birthday candles with flickering flame animations. Users can add or remove candles dynamically.
 
-![Screenshot](./images/screenshot.png)  
+![Screenshot](./src/images/screenshot.png)  
 *Screenshot of the app showing candles and flickering flames.*
 
 ## Features
